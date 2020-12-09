@@ -1,1 +1,1 @@
-![](https://svg.svg2.workers.dev/status.svg)
+![](https://svg.svg2.workers.dev/status2.svg)
